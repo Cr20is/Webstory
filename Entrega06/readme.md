@@ -1,7 +1,7 @@
 # Delito Data
 ACLARACIÓN: subimos la entrega 06 a un repositorio distinto al que teníamos desde el inicio del curso porque ese fue creado por un compañero que ya no está y teníamos problemas con los permisos, por eso la entrega 05 la subimos en repositorios separados, porque en uno subimos la página y en el grupal la carpeta de la entrega. Lo hicimos así esta vez porque nos bajó puntaje eso en la pre entrega y no sabemos como solucionarlo. 
 
-link Webstory:https://cr20is.github.io/Webstory/
+link Webstory: https://cr20is.github.io/Webstory/
 
 ## Introducción
 "Delito Data" es una webstory diseñada para ofrecer un análisis detallado de las estadísticas de delitos de connotación social en Santiago, Chile, entre los años 2018 y 2023. Esta plataforma proporciona datos numéricos que permiten visualizar la evolución de estos delitos, destacando cómo la pandemia influyó en una caída significativa de las cifras delictivas. 
