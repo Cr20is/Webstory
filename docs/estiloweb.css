@@ -48,6 +48,14 @@ p {
     font-family: 'Oswald', sans-serif;
     text-align: center; /* Centrando el título */
 }
+
+
+.texto-grande5 {
+    font-size: 40px; /* Ajusta el valor según tus necesidades */
+    font-family: 'Oswald', sans-serif;
+    text-align: center; /* Centrando el título */
+}
+
 footer{
     position: fixed;
     bottom: 0;
@@ -56,10 +64,4 @@ footer{
     color: #fff;
     padding: 3px 0;
     text-align: center;
-}
-
-.texto-grande5 {
-    font-size: 40px; /* Ajusta el valor según tus necesidades */
-    font-family: 'Oswald', sans-serif;
-    text-align: center; /* Centrando el título */
 }
