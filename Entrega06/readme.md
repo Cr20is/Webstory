@@ -12,10 +12,10 @@ link Webstory: https://cr20is.github.io/Webstory/
 Los delitos de connotación social han disminuido tras la pandemia. 
 
 ## Conclusión
-"Delito Data" ofrece una visión clara y detallada de cómo ha ido mutando el registro de delitos de connotación social post pandemia en Santiago. A través de una cuidadosa recolección y análisis de datos, junto con un diseño interactivo y accesible, nuestra webstory proporciona una herramienta valiosa para el análisis y comprensión de las tendencias delictivas en los últimos cinco años.
+"Delito Data" ofrece una visión clara y detallada de cómo ha ido mutando el registro de delitos de connotación social post pandemia en Santiago. A través de una cuidadosa recolección y análisis de datos, junto con un diseño interactivo y accesible, nuestra webstory proporciona una herramienta valiosa para el análisis y comprensión de las tendencias delictivas en los últimos cinco años. A través de esta transmitimos la idea de que los delitos de connotación social han bajado en los últimos años y que la inseguridad actual la generan hallazgos como las cifras de homicidios y femicidios.
 
 ## Proceso de creación y distribución de tareas
 
-##### Cristopher Aguilera: Gráficos de comunas en Fluorish, gráfico de delitos que disminuyeron en python. Montaje y edición de HTML Y CSS. Publicación de página y de entrega 05.
+##### Cristopher Aguilera: Gráficos de comunas en Fluorish, gráfico de delitos que disminuyeron en python. Montaje y edición de HTML Y CSS. Publicación de página y de entrega 06.
 
-##### Pablo Correa: Gráfico general y de delitos que aumentaron en python. Archivo README info general. Textos y párrafos de análisis presentes en la web. Video presentación.
+##### Pablo Correa: Gráfico general y de delitos que aumentaron en python. Archivos README. Textos y párrafos de análisis presentes en la web. Nuevo nombre de proyecto y conclusión para la crónica.
